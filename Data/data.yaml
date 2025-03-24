@@ -1,0 +1,5 @@
+names:
+  0: license_plate
+nc: 1
+train: /kaggle/input/car-number-plate-dataset-yolo-format/License-Plate-Data/train
+val: /kaggle/input/car-number-plate-dataset-yolo-format/License-Plate-Data/test
