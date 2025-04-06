@@ -53,3 +53,4 @@ def plot(imgs, row_title=None, **imshow_kwargs):
             axs[row_idx, 0].set(ylabel=row_title[row_idx])
 
     plt.tight_layout()
+    plt.show(block=True)

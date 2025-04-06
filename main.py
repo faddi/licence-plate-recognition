@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pylab as plt
+import matplotlib
 import torch
 import torch.nn as nn
 from PIL import Image, ImageDraw
